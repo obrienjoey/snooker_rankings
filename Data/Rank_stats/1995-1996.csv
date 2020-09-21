@@ -1,0 +1,614 @@
+player,start_rank,start_points,difference,finish_rank,finish_points
+Stephen Hendry,1,"50,042",0,1,"36,911"
+Steve Davis,2,"42,395",-8,10,"18,252"
+Ronnie O'Sullivan,3,"41,255",-5,8,"21,007"
+John Parrott,4,"38,939",0,4,"24,339"
+James Wattana,5,"38,904",-7,12,"17,641"
+Alan McManus,6,"36,310",0,6,"21,492"
+Jimmy White,7,"36,225",-6,13,"16,620"
+Darren Morgan,8,"34,970",-1,9,"19,142"
+Ken Doherty,9,"34,507",2,7,"21,161"
+Peter Ebdon,10,"33,645",7,3,"28,115"
+John Higgins,11,"29,962",9,2,"32,341"
+Nigel Bond,12,"29,394",7,5,"22,699"
+Dave Harold,13,"28,840",2,11,"18,247"
+Tony Drago,14,"25,944",-1,15,"16,031"
+Terry Griffiths,15,"25,259",-8,23,"14,226"
+David Roe,16,"24,156",-18,34,"11,804"
+Andy Hicks,17,"23,775",-1,18,"15,371"
+Dene O'Kane,18,"23,654",-9,27,"13,176"
+Joe Swail,19,"23,169",2,17,"15,966"
+Alain Robidoux,20,"23,127",6,14,"16,058"
+Mick Price,21,"22,440",-11,32,"12,101"
+Martin Clark,22,"21,762",-11,33,"11,840"
+Gary Wilkinson,23,"21,498",4,19,"15,251"
+Tony Knowles,24,"21,455",-18,42,"10,853"
+Willie Thorne,25,"21,196",0,25,"13,534"
+Steve James,26,"20,699",2,24,"13,699"
+Brian Morgan,27,"20,453",-22,49,"9,719"
+Neal Foulds,28,"20,290",7,21,"14,430"
+Jason Ferguson,29,"20,183",0,29,"12,839"
+Dean Reynolds,30,"20,057",-8,38,"11,019"
+Anthony Hamilton,31,"19,670",9,22,"14,415"
+Dennis Taylor,32,"19,095",6,26,"13,229"
+Billy Snaddon,33,"18,720",-2,35,"11,487"
+Mike Hallett,34,"18,425",-12,46,"10,035"
+Drew Henry,35,"18,095",-5,40,"10,913"
+Doug Mountjoy,36,"17,569",-23,59,"8,445"
+Stephen Lee,37,"17,447",6,31,"12,751"
+Fergal O'Brien,38,"17,285",2,36,"11,415"
+Mark Williams,39,"16,815",23,16,"15,988"
+Rod Lawler,40,"16,735",20,20,"14,565"
+Cliff Thorburn,41,"16,337",-50,91,"6,456"
+Mark Bennett,42,"16,091",-1,43,"10,786"
+Tony Jones,43,"16,075",-20,63,"8,168"
+Nigel Gilbert,44,"15,667",-38,82,"6,811"
+Anthony Davies,45,"15,577",8,37,"11,288"
+Nick Terry,46,"15,455",-6,52,"9,320"
+Dave Finbow,47,"15,282",19,28,"12,946"
+Peter Francisco - Not active,48,"15,267",-160,208,"3,184"
+Mark Johnston-Allen,49,"14,852",5,44,"10,541"
+Stephen Murphy,50,"14,572",-11,61,"8,238"
+Alex Higgins,51,"14,350",-48,99,"6,202"
+Mark King,52,"14,305",13,39,"10,943"
+Tony Chappel,53,"14,302",8,45,"10,358"
+Mark Flowerdew,54,"14,300",4,50,"9,510"
+Jason Prince,55,"13,897",-1,56,"8,864"
+Joe Johnson,56,"13,695",9,47,"9,785"
+Wayne Jones,57,"13,660",9,48,"9,725"
+Les Dodd,58,"13,525",-49,107,"5,870"
+Mark Davis,59,"13,495",4,55,"8,950"
+Steve Newbury,60,"13,312",-10,70,"7,473"
+Terry Murphy,61,"13,130",20,41,"10,855"
+Chris Small,62,"12,740",32,30,"12,788"
+Jonathan Birch,63,"12,727",-1,64,"8,044"
+Paul McPhillips,64,"12,697",-1,65,"7,863"
+Danny Fowler,65,"12,085",-25,90,"6,500"
+Paul Davies,66,"12,070",13,53,"9,165"
+Brian Rowswell,67,"11,805",-42,109,"5,750"
+Jimmy Michie,68,"11,700",8,60,"8,410"
+Ian Brumby,69,"11,600",0,69,"7,718"
+Stephen O'Connor,70,"11,570",-18,88,"6,563"
+Jim Wych,71,"11,540",-191,262,"2,420"
+Stefan Mazrocis,72,"11,320",-9,81,"6,820"
+Jamie Burnett,73,"10,790",19,54,"9,115"
+Steve Judd,74,"10,675",-34,108,"5,823"
+Tony Meo,75,"10,640",0,75,"7,215"
+Matthew Couch,76,"10,408",-7,83,"6,783"
+Eddie Charlton,77,"10,227",-212,289,"2,064"
+Karl Broughton,78,"10,145",21,57,"8,643"
+Dominic Dale,79,"10,025",-8,87,"6,653"
+Karl Payne,80,"9,700",29,51,"9,438"
+Silvino Francisco,81,"9,697",-44,125,"4,919"
+Craig Edwards,82,"9,660",-67,149,"4,170"
+Sean Lanigan,83,"9,625",-47,130,"4,760"
+Lee Richardson,84,"9,450",-26,110,"5,625"
+Roger Garrett - Not active,85,"9,435",85,0,0
+Chris Scanlon,86,"9,260",20,66,"7,840"
+Shokat Ali,87,"9,105",11,76,"7,213"
+Mark Rowing,88,"9,055",-4,92,"6,413"
+Darren Clarke,89,"9,050",-4,93,"6,345"
+Euan Henderson,90,"9,035",28,62,"8,173"
+Darryn Walker,91,"9,010",-23,114,"5,213"
+John Read,92,"8,840",15,77,"7,040"
+Joe Grech,93,"8,625",-35,128,"4,795"
+Nick Walker,94,"8,555",14,80,"6,848"
+Ian Graham,95,"8,540",-20,115,"5,200"
+Jamie Woodman,96,"8,525",28,68,"7,748"
+Antony Bolsover,97,"8,345",11,86,"6,660"
+Surinder Gill,98,"8,255",1,97,"6,305"
+Eugene Hughes,99,"8,220",-42,141,"4,380"
+Michael Judge,100,"8,120",29,71,"7,330"
+Andrew Cairns,101,"8,105",0,101,"6,060"
+Nick Dyson,102,"7,980",18,84,"6,688"
+Noppadon Noppachorn,103,"7,820",-19,122,"4,965"
+Colin Morton,104,"7,815",-13,117,"5,100"
+Nick Fruin,105,"7,795",-16,121,"4,980"
+David Taylor,106,"7,780",-45,151,"4,140"
+Yasin Merchant,107,"7,780",34,73,"7,270"
+Jack McLaughlin - Not active,108,"7,600",108,0,0
+Peter Daubney,109,"7,500",109,0,0
+Gerard Greene,110,"7,390",38,72,"7,285"
+Jason Weston,111,"7,265",-12,123,"4,960"
+Paul Cavney,112,"7,245",18,94,"6,333"
+Gary Ponting,113,"7,200",39,74,"7,252"
+Jeff Cundy,114,"7,145",11,103,"6,003"
+David McDonnell,115,"7,070",-47,162,"3,970"
+Marcus Campbell,116,"7,035",31,85,"6,680"
+Sean Storey,117,"7,030",-12,129,"4,780"
+Ken Owers,118,"6,855",-8,126,"4,830"
+Jim Chambers,119,"6,820",-18,137,"4,550"
+Jason Wallace,120,"6,785",22,98,"6,290"
+Bob Chaperon - Not active,121,"6,740",-278,399,"1,020"
+Oliver King,122,"6,730",22,100,"6,140"
+Stuart Pettman,123,"6,694",34,89,"6,515"
+Dylan Leary,124,"6,615",-3,127,"4,815"
+Troy Shaw,125,"6,590",-8,133,"4,670"
+Adrian Rosa,126,"6,525",7,119,"5,013"
+Robby Foldvari,127,"6,315",-7,134,"4,660"
+Robin Hull,128,"6,270",-4,132,"4,680"
+Peter Lines,129,"6,250",18,111,"5,588"
+Barry West,130,"6,225",-9,139,"4,488"
+Stuart Reardon,131,"6,090",13,118,"5,020"
+Barry Pinches,132,"6,040",53,79,"6,865"
+John Giles,133,"5,825",21,112,"5,405"
+Matt Wilson,134,"5,625",38,96,"6,316"
+Anthony Harris,135,"5,470",-62,197,"3,374"
+Jamie Bodle,136,"5,465",-19,155,"4,128"
+Pat Kenny,137,"5,415",13,124,"4,952"
+Joe O'Boye,138,"5,410",-60,198,"3,356"
+Karl Burrows,139,"5,395",23,116,"5,163"
+Steve Duggan,140,"5,329",-88,228,"2,926"
+Scott MacFarlane,141,"5,275",-36,177,"3,732"
+Paul Wykes,142,"5,219",40,102,"6,007"
+Nick Marsh,143,"5,200",12,131,"4,719"
+Daniel Murphy - Not active,144,"5,200",144,0,0
+Graham Horne,145,"5,189",32,113,"5,287"
+Amrik Cheema,146,"5,105",-125,271,"2,223"
+Bradley Jones,147,"5,070",-52,199,"3,339"
+David McLellan,148,"5,060",42,106,"5,877"
+Anton Bishop,149,"5,060",-31,180,"3,612"
+Mark Gray,150,"5,050",-6,156,"4,102"
+Craig MacGillivray,151,"4,980",13,138,"4,538"
+Colin Kelly,152,"4,965",152,0,0
+Neil Mosley,153,"4,960",1,152,"4,138"
+Steve Meakin,154,"4,885",-16,170,"3,827"
+David Rippon,155,"4,870",155,0,0
+Mike Dunn,156,"4,840",6,150,"4,169"
+Roger Leighton - Not active,157,"4,790",157,0,0
+Suriya Suwannasingh,158,"4,779",12,146,"4,274"
+Murdo Macleod,159,"4,745",-15,174,"3,767"
+Mark O'Sullivan,160,"4,745",-24,184,"3,538"
+Robert Foxall,161,"4,705",25,136,"4,557"
+Robert Marshall - Not active,162,"4,649",162,0,0
+Gary Lees,163,"4,549",-9,172,"3,797"
+Martin O'Neill,164,"4,546",11,153,"4,132"
+Stuart Parnell,165,"4,540",18,147,"4,213"
+Joe Delaney,166,"4,365",18,148,"4,188"
+John Burns,167,"4,359",-46,213,"3,127"
+Bjorn L'Orange,168,"4,300",-24,192,"3,431"
+Michael Duffy,169,"4,284",34,135,"4,593"
+Leigh Robinson,170,"4,250",26,144,"4,312"
+Tai Pichit,171,"4,072",31,140,"4,462"
+Steve Prest,172,"4,070",-9,181,"3,596"
+Jimmy Long - Not active,173,"4,039",173,0,0
+Alex Borg,174,"4,029",10,164,"3,954"
+John Lardner,175,"4,020",21,154,"4,128"
+Mukesh Parmar,176,"3,994",-43,219,"3,027"
+Paddy Browne - Not active,177,"3,955",-219,396,"1,040"
+Wayne Brown,178,"3,950",74,104,"5,933"
+Shaun Mellish,179,"3,935",-48,227,"2,944"
+Ian Sargeant,180,"3,914",-8,188,"3,483"
+Paul Gibson - Not active,181,"3,905",181,0,0
+Paul Davison (II),182,"3,905",11,171,"3,811"
+Anthony O'Connor,183,"3,879",-49,232,"2,913"
+Richy McDonald,184,"3,860",21,163,"3,965"
+Nic Barrow,185,"3,825",6,179,"3,614"
+Eddie Lott,186,"3,800",-34,220,"3,025"
+Leigh Griffin,187,"3,795",44,143,"4,323"
+Bob Harris - Not active,188,"3,760",188,0,0
+Garry Baldrey,189,"3,760",21,168,"3,847"
+Graeme Dott,190,"3,700",132,58,"8,584"
+Allison Fisher,191,"3,694",-202,393,"1,057"
+David Wilson,192,"3,675",17,175,"3,764"
+Ian McCulloch,193,"3,660",88,105,"5,899"
+David Coles,194,"3,555",3,191,"3,446"
+Joe Perry,195,"3,500",29,166,"3,908"
+Sefton Payne,196,"3,495",-129,325,"1,764"
+Dermot McGlinchey,198,"3,454",-25,223,"2,992"
+Sergio Beggiato,199,"3,445",-4,203,"3,266"
+Darren Hackeson,200,"3,444",42,158,"4,044"
+Rex Williams - Not active,201,"3,330",-283,484,240
+Paul Davison,202,"3,320",37,165,"3,946"
+Sean Lynskey,203,"3,319",-32,235,"2,817"
+Nick Pearce,204,"3,295",109,95,"6,318"
+Wayne Rendle,205,"3,254",63,142,"4,326"
+Gareth Chilcott,206,"3,246",24,182,"3,559"
+Jason Pegram,207,"3,245",7,200,"3,321"
+Mehmet Husnu,208,"3,200",49,159,"4,022"
+Paul Medati - Not active,209,"3,195",-233,442,610
+Scott Bigham,210,"3,185",34,176,"3,763"
+Peter McCullagh,211,"3,174",38,173,"3,780"
+Shane Haines,212,"3,160",16,196,"3,375"
+Daryl Peach - Not active,213,"3,125",213,0,0
+Steve Archer,214,"3,110",57,157,"4,064"
+Gary Peters,215,"3,105",-135,350,"1,525"
+Steve Lemmens,216,"3,060",-203,419,875
+Warren King,217,"3,045",-279,496,160
+Justin Buckingham,218,"3,035",12,206,"3,214"
+Mario Fernandez,219,"3,010",-3,222,"3,009"
+Stuart Mann,220,"2,995",-138,358,"1,425"
+Pat Horne,221,"2,980",52,169,"3,845"
+Jason Smith,222,"2,945",-25,247,"2,619"
+Andrew Hannah,223,"2,924",11,212,"3,142"
+Mario Geudens,224,"2,890",9,215,"3,097"
+Craig Harrison,225,"2,880",23,202,"3,300"
+Philip Williams,226,"2,877",65,161,"3,986"
+Steve Whalley,227,"2,865",-33,260,"2,479"
+Simon Morris,228,"2,845",38,190,"3,450"
+Martin Dziewialtowski,229,"2,810",109,120,"4,985"
+Bill Oliver - Not active,230,"2,809",-211,441,617
+Stephen Taylor,231,"2,800",48,183,"3,540"
+Alistair Fleming,232,"2,787",54,178,"3,664"
+Simon Parker,233,"2,785",233,0,0
+Michael Leach,234,"2,780",-4,238,"2,759"
+Graham MacDonald,235,"2,765",-24,259,"2,504"
+Matthew Stevens,236,"2,762",169,67,"7,811"
+Jason Whittaker,237,"2,675",-59,296,"1,990"
+Sam Chong,238,"2,672",93,145,"4,306"
+Graham Fisken,239,"2,665",-17,256,"2,550"
+Neil Tomkins,240,"2,664",29,211,"3,157"
+Mark Fenton,241,"2,647",46,195,"3,378"
+Carl Waters,242,"2,625",-23,265,"2,384"
+Robert Chapman,243,"2,620",-67,310,"1,875"
+Wayne Lloyd,244,"2,619",19,225,"2,951"
+Micky Roughan,245,"2,580",60,185,"3,530"
+Steve Ventham,246,"2,555",12,234,"2,829"
+Darren Lennox,247,"2,552",30,217,"3,053"
+Steve Harrison,248,"2,550",38,210,"3,169"
+Paul Sweeny,249,"2,537",48,201,"3,313"
+Jason Walton,250,"2,534",-25,275,"2,176"
+Iwan Jones,251,"2,480",42,209,"3,180"
+Darren Limburg,252,"2,449",47,205,"3,241"
+Joe Canny,253,"2,428",253,0,0
+Peter Gilchrist,254,"2,424",-119,373,"1,277"
+Steve Elliott,255,"2,419",29,226,"2,947"
+Craig Bradshaw,256,"2,373",11,245,"2,653"
+Joe Jogia,257,"2,322",90,167,"3,881"
+Tom Finstad,258,"2,319",258,0,0
+Wayne Saidler,259,"2,295",18,241,"2,725"
+Jamie Rous,260,"2,280",-39,299,"1,959"
+Ian Bullimore,261,"2,256",18,243,"2,675"
+Alfie Burden,262,"2,250",76,186,"3,515"
+John Bayliss,263,"2,233",59,204,"3,244"
+Mick Fisher,264,"2,224",-179,443,607
+Ian Hurdman,265,"2,200",49,216,"3,080"
+Steve Russell,266,"2,189",59,207,"3,207"
+Colm Gilcreest,267,"2,174",37,230,"2,917"
+Philip Seaton,268,"2,160",20,248,"2,604"
+Eddie Manning,269,"2,145",48,221,"3,010"
+Julian Goodyear,270,"2,129",-34,304,"1,906"
+Richard Wheelhouse,271,"2,124",53,218,"3,052"
+Dean Venables,272,"2,114",21,251,"2,601"
+Andrew Atkinson,273,"2,106",-19,292,"2,032"
+Neil Wood,274,"2,084",16,258,"2,506"
+Paul Florence,275,"2,084",275,0,0
+Patrick Delsemme,276,"2,079",116,160,"3,986"
+Mark Williams (II),277,"2,072",5,272,"2,203"
+Daniele Zagaroli,278,"2,044",8,270,"2,266"
+David Singh,279,"2,017",5,274,"2,184"
+Lee Walker,280,"2,014",91,189,"3,461"
+Lee Grant,281,"2,009",15,266,"2,357"
+Graham Stevens,282,"2,002",-9,291,"2,042"
+Ian Williamson,283,"2,000",-147,430,736
+Steven Evans - Not active,284,"1,985",-142,426,830
+Patrick Wallace,285,"1,984",91,194,"3,386"
+James Vicarey,286,"1,960",32,254,"2,579"
+Damian Massey,287,"1,955",38,249,"2,603"
+Lyndon Smith,288,"1,902",288,0,0
+Brett Patmore,289,"1,897",12,277,"2,169"
+Andrew Peters,290,"1,890",40,250,"2,603"
+Matthew McGrotty,291,"1,890",45,246,"2,624"
+Lee Walters,292,"1,873",-30,322,"1,788"
+Declan Hughes,293,"1,865",53,240,"2,732"
+Anthony Taylor,294,"1,859",0,294,"2,000"
+Andrew Radford,295,"1,842",15,280,"2,128"
+Richard Culham,296,"1,835",-51,347,"1,550"
+Paul Watchorn - Not active,297,"1,819",297,0,0
+Alfonso Bellusci,298,"1,813",-26,324,"1,767"
+Bjorn Haneveer,299,"1,805",70,229,"2,923"
+Stephen Kershaw,300,"1,804",47,253,"2,581"
+Will Jerram,301,"1,804",28,273,"2,193"
+Edvard Matthiasson - Not active,302,"1,788",302,0,0
+Peter Bullen,303,"1,786",303,0,0
+Mike Nixon - Not active,304,"1,771",-114,418,886
+Hassan Vaizie,305,"1,764",-104,409,952
+Kevin McCallum,306,"1,763",306,0,0
+Stephen Popplewell,307,"1,762",44,263,"2,401"
+Darren Paris,308,"1,757",20,288,"2,071"
+Andy Neck,309,"1,740",42,267,"2,355"
+Franky Chan - Not active,310,"1,725",310,0,0
+Brady Gollan - Not active,311,"1,725",311,0,0
+Marc Devon - Not active,312,"1,724",312,0,0
+Matt Bailey,313,"1,722",56,257,"2,538"
+Jason Greaves,314,"1,719",29,285,"2,091"
+Gerry Jones - Not active,315,"1,714",315,0,0
+Nick Spelman,316,"1,707",-5,321,"1,794"
+Chris Barnard,317,"1,704",84,233,"2,893"
+Adrian Gunnell,318,"1,704",82,236,"2,806"
+Graham Cripsey,319,"1,699",319,0,0
+Matthew Spade,320,"1,686",0,320,"1,810"
+Richard Batty,321,"1,683",18,303,"1,912"
+Karl Townsend,322,"1,680",7,315,"1,851"
+Alan Edmonds,323,"1,675",-10,333,"1,712"
+Paul Hefford - Not active,324,"1,660",-121,445,585
+Damon Zeid,325,"1,650",-1,326,"1,762"
+Raymon Fabrie,326,"1,637",65,261,"2,454"
+David Grimwood - Not active,327,"1,615",-158,485,240
+Michael O'Sullivan,328,"1,612",50,278,"2,167"
+Geoff Dunn,329,"1,611",77,252,"2,601"
+Mario Wehrmann,330,"1,594",43,287,"2,073"
+Andrew Photiou,331,"1,594",36,295,"1,994"
+Glenn Stevenson,332,"1,592",-19,351,"1,513"
+Nick Jones,333,"1,592",1,332,"1,723"
+John Manley,334,"1,580",17,317,"1,832"
+Andrew Duff - Not active,335,"1,571",335,0,0
+Jonathan Bagley,336,"1,562",60,276,"2,173"
+Jack Fitzmaurice,337,"1,562",7,330,"1,736"
+Scott Cooney,338,"1,561",96,242,"2,692"
+John Herbert,339,"1,554",115,224,"2,960"
+Chris O'Sullivan,340,"1,548",340,0,0
+Steve Gough,341,"1,540",5,336,"1,678"
+Darren Shaw,342,"1,533",78,264,"2,394"
+Hugh Abernethy,343,"1,521",99,244,"2,668"
+Tim Parry - Not active,344,"1,511",344,0,0
+Ryan Michael,345,"1,511",106,239,"2,745"
+Matt Bayley - Not active,346,"1,506",346,0,0
+Scott Rigg,347,"1,499",79,268,"2,352"
+John Dunning,348,"1,495",47,301,"1,937"
+Roy Bigg,349,"1,488",65,284,"2,094"
+Anthony Buckley,350,"1,481",350,0,0
+Terrance Burke,351,"1,469",351,0,0
+Paul Dawson,352,"1,464",45,307,"1,892"
+Malcolm Billaney,353,"1,458",44,309,"1,885"
+Iain Trimble,354,"1,455",42,312,"1,866"
+Rory Mallon,355,"1,443",355,0,0
+Anthony Halpin - Not active,356,"1,432",356,0,0
+Jayson Morris - Not active,357,"1,409",357,0,0
+Simon Smith,358,"1,405",72,286,"2,079"
+Tom Bell,359,"1,402",359,0,0
+Tim Dunphy,360,"1,389",360,0,0
+Mark Miller,361,"1,365",106,255,"2,570"
+Richard King (II),362,"1,364",46,316,"1,832"
+Neil Selman,363,"1,356",44,319,"1,810"
+Jimmy Singh,364,"1,351",-51,415,889
+Johan van Goetham,365,"1,348",60,305,"1,900"
+Grant Peabody,366,"1,346",20,346,"1,566"
+Gary Irvine,367,"1,345",88,279,"2,145"
+Andrew Alexandrou,368,"1,340",0,368,"1,315"
+Norman Maher - Not active,369,"1,304",-94,463,427
+Eddie Barker,370,"1,298",87,283,"2,098"
+Mark Whatley,371,"1,293",69,302,"1,916"
+Neal Jones,372,"1,278",103,269,"2,346"
+Elliott Clark,373,"1,272",55,318,"1,817"
+Stefan van der Borght - Not active,374,"1,265",374,0,0
+David Mole,375,"1,249",23,352,"1,497"
+Mark Canovan,376,"1,246",23,353,"1,497"
+Steve Mifsud - Not active,377,"1,240",-123,500,90
+Nicholas Segal,378,"1,227",13,365,"1,349"
+David Blakey,379,"1,227",-6,385,"1,169"
+Jason Curtis,380,"1,225",-12,392,"1,104"
+Justyn Barnes,381,"1,216",67,314,"1,858"
+Hitesh Lakhani,382,"1,211",-34,416,888
+Julian Mills,383,"1,210",85,298,"1,968"
+Evan Munro,384,"1,205",71,313,"1,864"
+David Athorn,385,"1,202",23,362,"1,382"
+Kamal Jit Singh,386,"1,201",105,281,"2,109"
+Jeffrey Moore - Not active,387,"1,194",387,0,0
+Darren Mirza - Not active,388,"1,193",388,0,0
+Mark Ganderton,389,"1,191",20,369,"1,304"
+Andrew Milliard,390,"1,181",50,340,"1,601"
+Steve Day,391,"1,178",52,339,"1,603"
+Lun Wai Lee - Not active,392,"1,159",-59,451,541
+Gregg Tugby,393,"1,159",7,386,"1,164"
+Craig Barber - Not active,394,"1,156",394,0,0
+Jason Dunworth,395,"1,155",95,300,"1,954"
+Steven Cook,396,"1,151",396,0,0
+Vipul Patel,397,"1,145",27,370,"1,304"
+Lee Marney - Not active,398,"1,145",398,0,0
+Kevin Sullivan,399,"1,132",36,363,"1,381"
+Kevin Smith,400,"1,129",65,335,"1,678"
+Gareth Atkins,401,"1,128",73,328,"1,752"
+Stephen Waldron,402,"1,116",65,337,"1,671"
+Cary Kikis - Not active,403,"1,100",403,0,0
+James Linehan - Not active,404,"1,092",404,0,0
+James Gibson - Not active,405,"1,059",405,0,0
+David Mellon - Not active,406,"1,058",406,0,0
+Dean Bracey,407,"1,055",407,0,0
+John Buckley,408,"1,054",65,343,"1,595"
+Steven Van Osselaer - Not active,409,"1,045",-46,455,523
+Darren Guest,410,"1,045",410,0,0
+David Thompson,411,"1,043",39,372,"1,284"
+Ryan Milton - Not active,412,"1,043",-49,461,429
+Del Smith,413,"1,042",123,290,"2,047"
+Richard Somauroo,414,"1,033",80,334,"1,680"
+Tony Brown,415,"1,014",41,374,"1,272"
+Paul Thomerson - Not active,416,"1,007",416,0,0
+Roy Clarke - Not active,417,"1,004",417,0,0
+Andrew Grieve,418,987,58,360,"1,407"
+Darren Skinner - Not active,419,981,419,0,0
+Christopher McGee,420,969,75,345,"1,572"
+Steven de Baets,421,969,421,0,0
+James O'Sullivan,422,959,68,354,"1,496"
+Paul Smith (II) - Not active,423,955,-41,464,418
+Dean Richardson,424,951,20,404,973
+Stephen Ormerod,425,946,66,359,"1,415"
+Stephen Jamieson,426,946,426,0,0
+Robert Grenville-Smith,427,943,427,0,0
+Luke Heard - Not active,428,934,428,0,0
+Paul Maskell - Not active,429,931,429,0,0
+Simon Westcott - Not active,430,931,-27,457,466
+Paul Clarke,431,920,120,311,"1,871"
+Mark Cackett - Not active,432,882,-26,458,441
+Shaun Berry,433,871,58,375,"1,250"
+John Clouden - Not active,434,870,-33,467,393
+Paul O'Donoghue - Not active,435,861,-25,460,431
+David Langton,436,842,16,420,866
+Munier Cassim,437,835,93,344,"1,584"
+James Patterson - Not active,438,831,438,0,0
+Richard Alford,439,823,44,395,"1,045"
+Carl Groves - Not active,440,819,-38,478,327
+Anthony Bridge,441,805,43,398,"1,020"
+Mark Colmer,442,801,52,390,"1,136"
+Sacha Journet - Not active,443,797,-23,466,399
+Neil Hoggarth,444,792,53,391,"1,105"
+Paul Lloyd - Not active,445,792,-32,477,352
+Christopher Flight - Not active,446,773,-23,469,387
+Ahmed Osman,447,773,69,378,"1,236"
+Russell Gough - Not active,448,773,448,0,0
+Andrew Highfield,449,773,60,389,"1,136"
+Zbynek Vaic - Not active,450,762,-20,470,381
+Donal Bonar,451,762,70,381,"1,208"
+Mark Faulkner - Not active,452,712,-23,475,356
+Imran Puri - Not active,453,712,-23,476,356
+Ashot Potikyan,454,712,53,401,"1,005"
+Tony Kearney - Not active,455,710,455,0,0
+Robert Thallon - Not active,456,689,-24,480,308
+Shawn Budd,457,680,457,0,0
+Miles Green,458,675,58,400,"1,011"
+David Sharpe - Not active,459,669,459,0,0
+Paul Green,460,667,53,407,953
+Huseyin Hursid,461,665,21,440,622
+Danny Smith - Not active,462,660,462,0,0
+Russell McGrady,463,639,463,0,0
+Costas Kassinides,464,639,42,422,854
+Andrew Craig - Not active,465,639,465,0,0
+Andrew Westmorland - Not active,466,635,-13,479,318
+Chris Archer - Not active,467,628,-24,491,200
+Johangir Khan,468,627,34,434,665
+Damian Astre,469,619,72,397,"1,036"
+Jim Donnelly,470,607,14,456,508
+Geet Sethi - Not active,471,590,471,0,0
+Craig McDonald,472,570,24,448,559
+Rogelio Esteiro,473,542,26,447,562
+John Lau - Not active,474,542,474,0,0
+Martin Lee,475,539,1,474,358
+Micky Wareham - Not active,476,530,476,0,0
+Andrea Barbacane,477,501,42,435,664
+Luke Roberts - Not active,478,481,478,0,0
+Paul Lovegrove,479,477,77,402,"1,004"
+John Leahy - Not active,480,472,-8,488,224
+Mark Taylor - Not active,481,437,481,0,0
+Chris Achilles,482,425,482,0,0
+Alex Coutts - Not active,483,411,-7,490,206
+Matt Jones,484,404,96,388,"1,144"
+Norman MacLachlan,485,390,60,425,833
+Alex Peart,486,388,14,472,371
+Kieran McMahon,487,360,149,338,"1,649"
+Alan Brookes - Not active,488,359,-7,495,164
+Dessie Sheehan,489,355,24,465,405
+Richard Davis - Not active,490,348,490,0,0
+Robert Tavagna - Not active,491,310,491,0,0
+Mario Morra - Not active,492,294,-10,502,67
+Kevin Lownds - Not active,493,280,493,0,0
+Craig Newson,494,280,494,0,0
+Paul Moss - Not active,495,277,-2,497,139
+Derek Dunkling,496,270,85,411,930
+Jamie Moreland,497,270,120,377,"1,243"
+Rajan Sharma,498,270,12,486,235
+Dave Andrew,499,262,499,0,0
+Ray Edmonds - Not active,500,255,1,499,90
+Vince McCluskey - Not active,501,250,501,0,0
+Daniel Haenga,502,246,502,0,0
+Ian Barry Stark,503,241,66,437,653
+John Virgo - Not active,504,225,504,0,0
+Graham Miles - Not active,505,220,505,0,0
+Robert Harrhy,506,220,165,341,"1,600"
+Darren Martin - Not active,507,216,507,0,0
+Graham Francis,508,211,37,471,377
+Martin Grainger - Not active,509,210,509,0,0
+Mike Darrington - Not active,510,205,510,0,0
+Paul Hurren - Not active,511,188,511,0,0
+Andreas Ahmed,512,182,109,403,974
+Donald Newcombe - Not active,513,177,12,501,89
+Daniel Gimenez - Not active,514,176,514,0,0
+Bernard Bennett - Not active,515,159,12,503,67
+Jimmy O'Shea - Not active,516,150,516,0,0
+Udesh Pillay,517,148,89,428,785
+Roberto Frezza - Not active,518,146,518,0,0
+Philip Minchin,519,145,80,439,622
+Paul Thornley - Not active,520,134,520,0,0
+Trevor Holtby - Not active,521,126,521,0,0
+Peter Peratikou - Not active,522,125,522,0,0
+Peter Delaney - Not active,523,112,523,0,0
+Duncan Moore - Not active,524,112,524,0,0
+Dennis Hughes - Not active,525,105,525,0,0
+Simon Morfitt - Not active,526,96,526,0,0
+Frank Fitzgerald,527,94,46,481,248
+Stephen Kiddle - Not active,528,94,528,0,0
+Michael Kirkham - Not active,529,80,529,0,0
+Andrew Clark,530,78,530,0,0
+Andrew Fisher - Not active,531,78,531,0,0
+Rory McLeod - Not active,532,77,28,504,39
+Joe McDonald - Not active,533,77,28,505,39
+Ali Bassiri,534,77,41,493,173
+Simon Keeton,535,77,37,498,116
+Gary Natale - Not active,536,75,536,0,0
+Timothy Paling - Not active,537,65,537,0,0
+Keith Moore - Not active,538,64,538,0,0
+Gareth Esprit,539,64,539,0,0
+Barry O'Loughlin - Not active,540,62,540,0,0
+Philip Freeman,541,60,541,0,0
+John Horsfall - Not active,542,50,542,0,0
+Mark Peevers - Not active,543,46,543,0,0
+Mohammed Shazi Khan,544,34,55,489,214
+Frank Smith - Not active,545,32,545,0,0
+Karen Corr,546,25,122,424,848
+Ronnie Shakespeare - Not active,547,18,547,0,0
+Ismail Yildiran - Not active,548,16,548,0,0
+Karl Preece,549,8,57,492,191
+Peter Cadogan,550,8,67,483,248
+Simon Parker,0,0,,187,"3,504"
+Chris Shade,0,0,,193,"3,422"
+Leo Fernandez,0,0,,214,"3,107"
+Robert Milkins,0,0,,231,"2,914"
+Quinten Hann,0,0,,237,"2,760"
+Munraj Pal,0,0,,282,"2,101"
+Anthony Buckley,0,0,,293,"2,009"
+Richard Jones,0,0,,297,"1,976"
+Lee Mallen,0,0,,306,"1,895"
+John Whitty,0,0,,308,"1,888"
+Simon Bedford,0,0,,323,"1,787"
+Stuart Bingham,0,0,,327,"1,759"
+Mark Love,0,0,,329,"1,747"
+Colin Donaldson,0,0,,331,"1,727"
+Neil Gilder,0,0,,342,"1,596"
+Darren Swinburn,0,0,,348,"1,545"
+Myles Deleuse,0,0,,349,"1,537"
+Tony Kenny,0,0,,355,"1,463"
+Matthew Bray,0,0,,356,"1,448"
+Barry Mapstone,0,0,,357,"1,431"
+Robert Grenville-Smith,0,0,,361,"1,398"
+Garoid O'Connor,0,0,,364,"1,368"
+Gary Thomson,0,0,,366,"1,346"
+Indika Dodangoda,0,0,,367,"1,321"
+Paul Radin,0,0,,371,"1,296"
+John Mills,0,0,,376,"1,246"
+Johan Oenema,0,0,,379,"1,224"
+Andrew Hall,0,0,,380,"1,209"
+Sanjay Meghani,0,0,,382,"1,182"
+Paul Fung,0,0,,383,"1,178"
+Juan Rosales,0,0,,384,"1,173"
+Carl Stringer,0,0,,387,"1,146"
+Paul McCullough,0,0,,394,"1,054"
+Mark Weston,0,0,,405,972
+Lee Johnson,0,0,,406,966
+Gary Clarke,0,0,,408,952
+Eddie Glass,0,0,,410,935
+Paul Reeve,0,0,,412,922
+Eden Butterworth,0,0,,414,902
+Neville Atkins,0,0,,417,887
+Ian Glover,0,0,,421,864
+Shaun Wilkes,0,0,,423,851
+John Wilson,0,0,,427,816
+Grant Conquest,0,0,,429,751
+David Manley,0,0,,431,703
+Marcus Lord,0,0,,432,693
+John Daniels,0,0,,433,685
+Stephen Tierney,0,0,,436,658
+Paul Burrell,0,0,,438,644
+Guo Hua,0,0,,444,592
+Steven Gibbs,0,0,,450,547
+Johannes B Johannesson,0,0,,446,567
+Zulfigar Cheema,0,0,,449,556
+Anthony Massey,0,0,,452,530
+Stephen Pieroni,0,0,,454,528
+Brian Casson,0,0,,459,436
+Mark Congram,0,0,,462,427
+Kristjan Helgason,0,0,,453,529
+Joe Patterson,0,0,,468,393
+Paul Stockwell,0,0,,473,358
+Daniel Findlay,0,0,,482,248
+Johannes R Johannesson - Not active,0,0,,487,230
+Mark Taylor - Not active,0,0,,494,164
+Paul Hunter,0,0,,78,"6,885"
