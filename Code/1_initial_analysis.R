@@ -1,10 +1,10 @@
 ### initial analysis and recreation of Fig.1
 
 # libraries
-source('source.R')
+source('Code/source.R')
 # data
-tourn_df <- read_csv('../Data/final_tourn_df.csv')
-df <- read_csv('../Data/final_match_df.csv')
+tourn_df <- read_csv('Data/final_tourn_df.csv')
+df <- read_csv('Data/final_match_df.csv')
 
 ### initial analysis
 ## how many matches?
@@ -164,3 +164,7 @@ plot_grid(tourn_season_plot,
           axis = 'b',
           align = 'v',
           hjust = -0.1)
+
+ggsave('Images/data_summaries.pdf',
+       width = 12, height = 8, units = 'in',
+       device = cairo_pdf)

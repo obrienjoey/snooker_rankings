@@ -2,10 +2,10 @@
 ### to reproduce Fig.2 and Table 1
 
 # libraries
-source('source.R')
+source('Code/source.R')
 # data
-tourn_df <- read_csv('../Data/final_tourn_df.csv')
-df <- read_csv('../Data/final_match_df.csv')
+tourn_df <- read_csv('Data/final_tourn_df.csv')
+df <- read_csv('Data/final_match_df.csv')
 
 set.seed(1)
 # perform the pagerank
@@ -22,7 +22,7 @@ all_time_df %>%
   theme_minimal() +
   geom_text_repel(size = 2.25) +
   labs(x = 'Rank by Wins',
-       y = 'Rank by Prestige') +
+       y = 'Rank by PageRank') +
   theme(axis.line = element_line(colour = ablack),
         axis.text=element_text(size=10),
         plot.title.position = 'plot',
@@ -30,12 +30,16 @@ all_time_df %>%
         plot.subtitle = element_text(size = 12),
         axis.title=element_text(size=12))
 
+ggsave('Images/all_time_ranks.pdf', width = 6,
+       height = 4, units = 'in',
+       device = cairo_pdf)
+
 # correlation of different ranks
 all_time_df %>%
   filter(rank_pre <= 30 | rank_str <= 30) %>%
-  summarize(cor(rank_pre, rank_str, method = c('pearson')),
-            cor(rank_pre, rank_str, method = c('kendall')),
-            cor(rank_pre, rank_str, method = c('spearman')))
+  summarize(pearson = cor(rank_pre, rank_str, method = c('pearson')),
+            kendall = cor(rank_pre, rank_str, method = c('kendall')),
+            spearman = cor(rank_pre, rank_str, method = c('spearman')))
 
 # top 20 players
 all_time_df %>%

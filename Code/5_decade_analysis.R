@@ -24,3 +24,4 @@ for(i in 1:nrow(years_to_do)){
 
 era_df %>%
   pivot_wider(names_from = era, values_from = player)
+

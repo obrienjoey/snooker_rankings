@@ -31,3 +31,7 @@ tourn_df %>%
         axis.title=element_text(size=14),
         axis.ticks.x = element_line(colour = ablack),
         panel.grid = element_blank())
+
+ggsave('Images/prize_fund_distribution.pdf',
+       height = 4, width = 6, units = 'in',
+       device = cairo_pdf)

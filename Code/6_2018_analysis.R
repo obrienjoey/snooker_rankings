@@ -34,7 +34,7 @@ pre_str <- ranks_all %>%
   theme_minimal() +
   geom_text_repel(size = 2.25) +
   labs(x = 'Rank by Wins',
-       y = 'Rank by Prestige') +
+       y = 'Rank by PageRank') +
   theme(axis.line = element_line(colour = ablack),
         axis.text=element_text(size=10),
         plot.title.position = 'plot',
@@ -60,7 +60,7 @@ pre_ws <- ranks_all %>%
   theme_minimal() +
   geom_text_repel(size = 2.25) +
   labs(x = 'World Snooker Ranks',
-       y = 'Rank by Prestige') +
+       y = 'Rank by PageRank') +
   theme(axis.line = element_line(colour = ablack),
         axis.text=element_text(size=10),
         plot.title.position = 'plot',
@@ -79,3 +79,7 @@ plot_grid(pre_str, pre_ws,
           ncol = 2, align ='hv',
           hjust = -0.1,
           labels = c('(a)', '(b)'))
+
+ggsave('Images/2018_ranks.pdf', width = 12,
+       height = 4, units = 'in',
+       device = cairo_pdf)

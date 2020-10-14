@@ -104,9 +104,6 @@ j50 <- Jacc_df %>%
         plot.title = element_text(size = 14, face = 'bold'),
         axis.title=element_text(size=14))
 
-ggsave('../Plots/jaccard_v1.pdf', width = 6, height = 4, units ='in',
-       device = cairo_pdf)
-
 ####### other thresholds
 
 j10 <- Jacc_df %>%
@@ -211,3 +208,6 @@ plot_grid(j5, j10, j25, j50,
           ncol = 2, align ='hv',
           hjust = -0.1,
           labels = c('(a)', '(b)', '(c)', '(d)'))
+
+ggsave('Images/Jaccard.pdf', height = 8, width = 12,
+       units = 'in', device = cairo_pdf)
