@@ -14,7 +14,10 @@ tourn_df %>%
                     color = ablack,
                     fatten = 1,
                     position = position_nudge(x = 0, y = 0)) +
-  geom_half_point(aes(color = as.factor(season)), alpha = 0.5,
+  geom_half_point(aes(fill = as.factor(season)),
+                  alpha = 0.85,
+                  color = ablack,
+                  shape = 21,
                   transformation = position_jitter(width = 1)) +
   scale_y_continuous(labels=scientific) +
   scale_color_viridis_d() +
