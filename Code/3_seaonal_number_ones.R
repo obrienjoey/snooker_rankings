@@ -26,8 +26,7 @@ for(i in 1:length(years)){
 
 ## load in the official world rankings
 number_one_df <- number_one_df %>%
-  mutate(year = str_extract(season, "[^-]+"),
-         year = as.integer(year) - 1)
+  mutate(year = str_extract(season, "[^-]+"))
 number_one_df <- number_one_df %>%
   mutate(method = rep('WS', nrow(.))) %>%
   select(player,method,year)
