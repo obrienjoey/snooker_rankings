@@ -1,3 +1,5 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### perform the pagerank in each decade
 ### to reproduce Table 3
 

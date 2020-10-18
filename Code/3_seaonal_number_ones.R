@@ -1,3 +1,5 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### perform the seasonal pagerank analysis
 ### to reproduce Table 2
 

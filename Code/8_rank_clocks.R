@@ -1,5 +1,7 @@
-### compare the different ranking measures from 1990-2019
-### via the jaccard similarity to reproduce Figure 5
+### author: Joey O'Brien
+### date: 18/10/20
+### visualize the PageRank rankings using the rank
+### clock as per Figure 6
 
 # libraries
 source('./Code/source.R')

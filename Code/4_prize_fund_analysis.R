@@ -1,3 +1,5 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### analysis of the prize-fund to reproduce Fig.3
 
 # libraries

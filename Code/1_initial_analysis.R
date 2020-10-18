@@ -1,3 +1,5 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### initial analysis and recreation of Fig.1
 
 # libraries
@@ -53,7 +55,6 @@ tourn_season_plot <- df %>%
         axis.text.x = element_text(angle = 60, hjust = 1),
         plot.title = element_text(size = 14, face = 'bold'),
         axis.title=element_text(size=14))
-tourn_season_plot
 
 # number of players by season
 player_season_plot <- df %>%
@@ -154,7 +155,6 @@ result_ccdf <- player_result_df %>%
         legend.position = c(0.85,0.85),
         plot.title = element_text(size = 14, face = 'bold'),
         axis.title=element_text(size=14))
-result_ccdf
 
 # all the plots together
 plot_grid(tourn_season_plot,

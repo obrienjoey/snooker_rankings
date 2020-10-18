@@ -1,3 +1,5 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### perform the all-time pagerank analysis
 ### to reproduce Fig.2 and Table 1
 

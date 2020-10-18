@@ -1,3 +1,5 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### compare the different ranking measures during the 2018-19 season
 ### reproduce Figure 4
 

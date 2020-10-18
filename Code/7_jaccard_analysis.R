@@ -1,5 +1,7 @@
+### author: Joey O'Brien
+### date: 18/10/20
 ### compare the different ranking measures from 1990-2019
-### via the jaccard similarity to reproduce Figure 5
+### via the Jaccard similarity to reproduce Figure 5
 
 # libraries
 source('./Code/source.R')

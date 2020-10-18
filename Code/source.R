@@ -1,5 +1,14 @@
-### source file
+### author: Joey O'Brien
+### date: 18/10/20
+### source file - packages & functions used in analysis
 
+### packages
+## install any missing packages
+packages <- c("tidyverse", "tidygraph", "ggraph", "igraph",
+              "Matrix", "ggrepel", "extrafont", "scales",
+              "cowplot", "gt", "kable", "gghalves")
+install.packages(setdiff(packages, rownames(installed.packages())))
+## load the packages
 library(tidyverse)
 library(tidygraph)
 library(ggraph)
@@ -12,25 +21,28 @@ library(cowplot)
 library(gt)
 library(knitr)
 library(gghalves)
+## load fonts used in figures
 loadfonts(device = "win")
 theme_set(theme_minimal(base_family = "Roboto"))
-
+## custom black a la Way & Larremore
 ablack = '#202020'
 
+### custom functions used in analysis
+## Jaccard simalrity J(A,B)
 jac_similarity <- function(x, y) {
   k <- length(intersect(x, y))
   n <- length(union(x, y))
   k / n
 }
-
+## plot every n-th point
 every_nth = function(n) {
   return(function(x) {x[c(TRUE, rep(FALSE, n - 1))]})
 }
-
+## scientific axis labels
 scientific <- function(x){
   ifelse(x==0, "0", parse(text=gsub("[+]", "", gsub("e", " %*% 10^", scientific_format()(x)))))
 }
-
+## page rank computation on results df
 page_rank_sim = function(df){
 
   node_list <- df %>%
